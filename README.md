@@ -1,17 +1,15 @@
-## Hi my name is Kaller Moraes I'm a computer engineer with experience in web systems development being a Front-end specialist.
-### Main skills:
-- React
-- Next.js
-- Vue
-- Creating user interfaces on web pages
-- Use of agile methodologies in software development (Kanban and Scrum)
-- Creation and consumption of REST APIs using Javascript.
-- Gitflow.
-- Object orientation.
-- Prioritize clean code.
+## 🙂 Olá, meu nome é <strong>Kaller Moraes Gonçalves!</strong>
 
-In addition to these skills I am always looking for new knowledge and with that I try to have knowledge of other areas such as:
-- Project management.
-- Artificial intelligence.
+> Sou um Engenheiro de computação com experiência no desenvolvimento de sistemas web, sendo especializado em Front-end.
 
-Feel free to look at my profile and add me to create a network.
+---
+
+## 🚀 Minhas Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,js,ts,html,css,git,linux,python,mysql,figma&theme=light)](https://skillicons.dev)
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KallerMG&show_icons=true)
