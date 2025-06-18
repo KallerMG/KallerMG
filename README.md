@@ -1,8 +1,11 @@
-## Hello, my name is <strong>Kaller Moraes Gonçalves!</strong>
+## 👋 Hello, my name is Kaller Moraes Gonçalves
+I am a Computer Engineer with a strong background in front-end development and cross-platform mobile applications. I specialize in modern JavaScript frameworks and libraries, with experience in:
 
-> I am a Computer Engineer with experience in web systems development, specializing in Front-end. Additionally, I have expertise in programming with React Native and Flutter.
+React, Vue, Next.js, Nuxt
 
----
+React Native and Flutter for mobile development
+
+Graduated in Computer Engineering from UCPel, where I was recognized as an outstanding student in my class. I am passionate about creating efficient, user-friendly interfaces and continuously improving my skills in web and mobile technologies.
 
 ## My Skills
 
